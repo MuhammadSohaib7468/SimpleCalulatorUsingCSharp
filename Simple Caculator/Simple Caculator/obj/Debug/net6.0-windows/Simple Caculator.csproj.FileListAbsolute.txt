@@ -1,0 +1,17 @@
+D:\Software Engineering\Desktop Development\C#\Projects\Project # 1 ( Simple Calculator)\Simple Caculator\Simple Caculator\bin\Debug\net6.0-windows\Simple Caculator.exe
+D:\Software Engineering\Desktop Development\C#\Projects\Project # 1 ( Simple Calculator)\Simple Caculator\Simple Caculator\bin\Debug\net6.0-windows\Simple Caculator.deps.json
+D:\Software Engineering\Desktop Development\C#\Projects\Project # 1 ( Simple Calculator)\Simple Caculator\Simple Caculator\bin\Debug\net6.0-windows\Simple Caculator.runtimeconfig.json
+D:\Software Engineering\Desktop Development\C#\Projects\Project # 1 ( Simple Calculator)\Simple Caculator\Simple Caculator\bin\Debug\net6.0-windows\Simple Caculator.dll
+D:\Software Engineering\Desktop Development\C#\Projects\Project # 1 ( Simple Calculator)\Simple Caculator\Simple Caculator\bin\Debug\net6.0-windows\Simple Caculator.pdb
+D:\Software Engineering\Desktop Development\C#\Projects\Project # 1 ( Simple Calculator)\Simple Caculator\Simple Caculator\obj\Debug\net6.0-windows\Simple Caculator.csproj.AssemblyReference.cache
+D:\Software Engineering\Desktop Development\C#\Projects\Project # 1 ( Simple Calculator)\Simple Caculator\Simple Caculator\obj\Debug\net6.0-windows\Simple_Caculator.Form1.resources
+D:\Software Engineering\Desktop Development\C#\Projects\Project # 1 ( Simple Calculator)\Simple Caculator\Simple Caculator\obj\Debug\net6.0-windows\Simple Caculator.csproj.GenerateResource.cache
+D:\Software Engineering\Desktop Development\C#\Projects\Project # 1 ( Simple Calculator)\Simple Caculator\Simple Caculator\obj\Debug\net6.0-windows\Simple Caculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Software Engineering\Desktop Development\C#\Projects\Project # 1 ( Simple Calculator)\Simple Caculator\Simple Caculator\obj\Debug\net6.0-windows\Simple Caculator.AssemblyInfoInputs.cache
+D:\Software Engineering\Desktop Development\C#\Projects\Project # 1 ( Simple Calculator)\Simple Caculator\Simple Caculator\obj\Debug\net6.0-windows\Simple Caculator.AssemblyInfo.cs
+D:\Software Engineering\Desktop Development\C#\Projects\Project # 1 ( Simple Calculator)\Simple Caculator\Simple Caculator\obj\Debug\net6.0-windows\Simple Caculator.csproj.CoreCompileInputs.cache
+D:\Software Engineering\Desktop Development\C#\Projects\Project # 1 ( Simple Calculator)\Simple Caculator\Simple Caculator\obj\Debug\net6.0-windows\Simple Caculator.dll
+D:\Software Engineering\Desktop Development\C#\Projects\Project # 1 ( Simple Calculator)\Simple Caculator\Simple Caculator\obj\Debug\net6.0-windows\refint\Simple Caculator.dll
+D:\Software Engineering\Desktop Development\C#\Projects\Project # 1 ( Simple Calculator)\Simple Caculator\Simple Caculator\obj\Debug\net6.0-windows\Simple Caculator.pdb
+D:\Software Engineering\Desktop Development\C#\Projects\Project # 1 ( Simple Calculator)\Simple Caculator\Simple Caculator\obj\Debug\net6.0-windows\Simple Caculator.genruntimeconfig.cache
+D:\Software Engineering\Desktop Development\C#\Projects\Project # 1 ( Simple Calculator)\Simple Caculator\Simple Caculator\obj\Debug\net6.0-windows\ref\Simple Caculator.dll
